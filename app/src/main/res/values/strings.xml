@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharePreferencesAgenda</string>
+    <string name="txt_nombre">Ingrese su nombre</string>
+    <string name="txt_datos">Ingrese sus datos</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Buscar</string>
+</resources>
